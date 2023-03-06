@@ -8,4 +8,6 @@
 
 ## 4. Stock Price Prediction
 
+## 6. Stock Price Prediction with LSTM
+
 ## Topic Modelling
