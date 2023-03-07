@@ -10,4 +10,6 @@
 
 ## 6. Stock Price Prediction with LSTM
 
+## 7. Text Emotions Classification using Python
+
 ## Topic Modelling
