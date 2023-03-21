@@ -12,4 +12,8 @@
 
 ## 7. Text Emotions Classification using Python
 
+## 8. Employee Attrition Analysis
+
+## 9. Article Recommendation System with Machine
+
 ## Topic Modelling
