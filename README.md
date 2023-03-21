@@ -16,4 +16,6 @@
 
 ## 9. Article Recommendation System with Machine
 
+## 10. Classification with Neural Networks
+
 ## Topic Modelling
